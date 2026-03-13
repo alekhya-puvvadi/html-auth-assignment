@@ -1,6 +1,8 @@
 # HTML Authentication POC
 
-This project contains 5 interconnected HTML pages:
+This project demonstrates a simple authentication flow using basic HTML pages with CSS styling.
+
+## Pages Included
 
 - login.html
 - register.html
@@ -8,6 +10,19 @@ This project contains 5 interconnected HTML pages:
 - reset-password.html
 - dashboard.html
 
-All redirections are done using anchor tags and form actions.
+## Features
 
-No CSS or JavaScript used.
+- Navigation between authentication pages using anchor tags
+- Basic form structure for login, registration, and password reset
+- Simple CSS styling to improve the user interface
+- Dashboard page with logout navigation
+
+## Technologies Used
+
+- HTML5
+- CSS3
+
+## Notes
+
+This project is a Proof of Concept (POC) created for learning purposes.  
+It demonstrates page navigation and UI design only and does not include real authentication logic.
