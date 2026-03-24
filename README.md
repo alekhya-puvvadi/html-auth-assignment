@@ -40,6 +40,23 @@ Navigation Flow
 2. Open `login.html` in a browser  
 3. Navigate through the pages
 
+ Screenshots
+
+### Login Page
+![Login](screenshots/login.png)
+
+### Register Page
+![Register](screenshots/register.png)
+
+### Forgot Password Page
+![Forgot](screenshots/forgot.png)
+
+### Reset Password Page
+![Reset](screenshots/reset.png)
+
+### Dashboard Page
+![Dashboard](screenshots/dashboard.png)
+
    Author
 
 Alekhya P C
